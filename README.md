@@ -1,6 +1,8 @@
 # Registration Page Template
 
-![GitHub](https://github.com/SamirK95/RegistrationPage/blob/branchForEdit/Registration.png)
+![Registration Form](https://github.com/SamirK95/RegistrationPage/blob/branchForEdit/Registration.png)
+
+*Registration Form*
 
 
 This repository provides a user registration page template created using ASP.NET and CSS. It is designed to serve as a starting point for your web development projects, giving you a structured registration page that you can easily adapt to your specific requirements.
